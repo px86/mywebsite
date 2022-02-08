@@ -1,0 +1,13 @@
+#+TITLE: License
+#+OPTIONS: toc:nil
+
+This website is the work of Pushkar Raj. All original content on this site is available under free/libre copyleft license terms, unless explicitely mentioned.
+
+Blog posts are available under the [[https://creativecommons.org/licenses/by-sa/4.0/legalcode][Creative Commons Attribution-ShareAlike 4.0 International]].
+
+All original programs, code snippets, and inline documentations are available under the [[https://www.gnu.org/licenses/gpl-3.0.html][GNU General Public License Version 3 or later]].
+
+This website is written in [[https://orgmode.org/][org-mode]] and converted to HTML using [[https://www.gnu.org/software/emacs/][GNU Emacs]].
+The stylesheets(CSS) and the client side scripts(JavaScript) are completely my work.
+
+For any further queries, [[file:contact.org][contact me]].
