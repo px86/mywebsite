@@ -82,7 +82,7 @@
 ;; Include custom css/js into the exported HTML head
 (setq org-html-head-extra
       (concat "<link rel=\"icon\" type=\"image/x-icon\" href=\"/assets/favicon.ico\"/> \n"
-	      "<link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/style.min.css\"/> \n"
+	      "<link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/style.css\"/> \n"
 	      "<link rel=\"stylesheet\" type=\"text/css\" href=\"/assets/css/fonts.css\"/> \n"
 	      "<script type=\"text/javascript\" src=\"/assets/js/script.js\" defer></script> \n"))
 

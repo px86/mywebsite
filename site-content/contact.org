@@ -1,7 +1,6 @@
-#+TITLE: Contact
+#+TITLE: Contact Me
 #+OPTIONS: toc:nil
 
-* GPG Key
+- Email: [[mailto:px86@protonmail.com][px86@protonmail.com]]
 
-#+begin_src text
-#+end_src
+  Feel free to contact me regarding anything related to this website, its content, or my projects in general.

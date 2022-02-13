@@ -2,8 +2,6 @@
 #+DESCRIPTION: Homepage of Pushkar Raj's website.
 #+OPTIONS: toc:nil
 
-This is my personal website. A place where I share my notes, and ideas.
-
 * Recent Articles
 
 #+INCLUDE: articles/index.org :lines "3-14"

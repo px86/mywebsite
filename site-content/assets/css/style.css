@@ -29,8 +29,6 @@ body {
     margin-left: 30ch;
 }
 
-/* ------------------------------------------------- */
-
 #preamble {
     background: var(--color-dark-secondary);
     position: fixed;
@@ -132,12 +130,11 @@ body {
 @media all and (max-width: 550px)
 { .org-ul li span.timestamp {display: block;} }
 
-/* ------------------------------------------------- */
-
 #content {
     max-width: var(--max-width);
     margin: 0;
     padding: var(--padding-horizontal);
+    min-height: 80vh;
 }
 
 #postamble {
@@ -150,8 +147,6 @@ body {
     text-align: center;
     border-top: 2px dotted var(--color-comment);
 }
-
-/* ------------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--color-yellow);
@@ -171,8 +166,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 3.5em;
 }
 
-/* ------------------------------------------------- */
-
 a {
     color: var(--color-blue);
     text-decoration: none;
@@ -184,8 +177,6 @@ a:hover, a:visited:hover {
     text-decoration: underline;
 }
 
-/* ------------------------------------------------- */
-
 code {
     background: var(--color-dark-secondary);
     color: var(--color-yellow);
@@ -193,11 +184,7 @@ code {
     padding: .125em .2em;
     border-radius: 8px;
 }
-/* Source code blocks */
-
-.org-src-container {
-    position: relative;
-}
+.org-src-container { position: relative; }
 
 pre {
     background: var(--color-dark-secondary);
@@ -300,13 +287,11 @@ li { padding: 0 };
 /* Tables */
 table {
     display: block;
-    /* max-width: var(--max-width); */
     max-width: 100%;
     overflow-x: auto;
     border-collapse: collapse;
     border: 0;
 }
-/* tbody { white-space: nowrap; } */
 tbody tr:nth-of-type(even) { background: var(--color-dark-primary); }
 tbody tr:nth-of-type(odd)  { background: var(--color-dark-secondary); }
 td, th { vertical-align: top; }

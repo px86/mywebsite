@@ -1,6 +1,4 @@
 #+TITLE: About Me
 #+OPTIONS: toc:nil
 
-* Hello, My name is Pushkar Raj
-
-I share my thoughts and ideas on this platform. Hope you enjoy them.
+Hello, I'm Pushkar Raj and this website is my [[https://en.wikipedia.org/wiki/Rubber_duck_debugging][rubber duck]].
